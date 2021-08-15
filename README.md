@@ -22,4 +22,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Deployment
 
-* Deployed app to GitHub Pages. Submit the links to your deployment and your GitHub repo.
+* Deployed app to GitHub Pages. 
